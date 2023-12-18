@@ -1,0 +1,3 @@
+# Project exclude paths
+/annotation-processing/target/
+/annotation-user/target/
